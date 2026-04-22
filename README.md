@@ -47,7 +47,4 @@ Based on the data visualization, three primary "churn triggers" were identified:
 
 • Develop a "New Customer Success" program specifically for users in the 0-12 month tenure bracket.
 
-• Incentivize the adoption of automated payment methods (Credit Card/Bank Transfer) to reduce payment-related friction.
-
-
-• Incentivize the adoption of automated payment methods (Credit Card/Bank Transfer) to reduce payment-related
+• Incentivize the adoption of automated payment methods (Credit Card/Bank Transfer) to reduce payment-related friction
